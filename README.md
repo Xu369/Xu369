@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am studying the MSc Conneted Enviroments in UCL. <br>I am currently learning about the module of Web Architecture. <br>I am looking forward to cooperating with you happily in this module.
+I 
 
 
 # 💻 Tech Stack:
